@@ -27,7 +27,7 @@ Research Career Highlights
 * Published peer-reviewed articles and book chapters on online engagement, learning, political behavior, and assessment.
 
 Recent Certificates:
-* IBM Data Science Specialization, Coursera, Credential ID 8R5T1S4Y5I
+* IBM Data Science Specialization, Coursera, ID 8R5T1S4Y5I
 * Leveraging Generative AI in Higher Education: Practical Applications, EDUCAUSE
-* Introduction to Generative AI, Google Cloud ID XZG4FY5MRZI8
+* Introduction to Generative AI, Google Cloud, Coursera, ID XZG4FY5MRZI8
 
