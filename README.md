@@ -21,7 +21,7 @@ I am currently an academic administrator at a community and technical college re
 
 
 Career Highlights
-* Developed institutional research and assesesment infrastructure for large, online institution.
+* Developed institutional research and assesesment systems for large, online institution.
 * Founding board member and past president for Association for the Assessment of Learning in Higher Education (AALHE).
 * Taught courses in statistics, quantitative analysis, secondary data, and political psychology.
 * Published peer-reviewed articles and book chapters on online engagement, learning, political behavior, and assessment.
