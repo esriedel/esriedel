@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 I am currently an academic administrator at a community and technical college returning to my professional roots in research.
 
+
+
 Career Highlights
 * Developed institutional research and assesesment infrastructure for large, online institution.
 * Founding board member and past president for Association for the Assessment of Learning in Higher Education (AALHE).
