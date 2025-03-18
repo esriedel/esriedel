@@ -20,13 +20,13 @@ I am currently an academic administrator returning to my professional roots in r
 
 
 
-Career Highlights
+Research Career Highlights
 * Developed institutional research and assesesment systems for large, online institution.
 * Founding board member and past president for Association for the Assessment of Learning in Higher Education (AALHE).
 * Taught courses in statistics, quantitative analysis, secondary data, and political psychology.
 * Published peer-reviewed articles and book chapters on online engagement, learning, political behavior, and assessment.
 
-Certifications:
+Recent Certificates:
 * IBM Data Science Specialization, Coursera, Credential ID 8R5T1S4Y5I
 * Leveraging Generative AI in Higher Education: Practical Applications, EDUCAUSE
 * Introduction to Generative AI, Google Cloud ID XZG4FY5MRZI8
