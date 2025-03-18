@@ -21,9 +21,9 @@ I am currently an academic administrator at a community and technical college re
 
 
 Career Highlights
-* Developed institutional research and assesesment infrastructure for large, online institution.https://www.waldenu.edu/about/data
+* Developed institutional research and assesesment infrastructure for large, online institution.
 * Founding board member and past president for Association for the Assessment of Learning in Higher Education (AALHE).
-* Taught statistics and quantitative analysis at University of Minnesota and Walden University.
+* Taught courses in statistics, quantitative analysis, secondary data, and political psychology.
 * Published peer-reviewed articles and book chapters on online engagement, learning, political behavior, and assessment.
 
 
