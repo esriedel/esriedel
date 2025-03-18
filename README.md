@@ -20,6 +20,7 @@ About Me
 I am currently an academic administrator at a community and technical college returning to my professional roots in research.
 
 Career Highlights
+* Developed institutional research and assesesment infrastructure for large, online institution.
 * Founding board member and past president for Association for the Assessment of Learning in Higher Education (AALHE).
 * Taught statistics and quantitative analysis at University of Minnesota and Walden University.
 * 19	peer-reviewed articles, 5 book chapters, 55 conference presentations
