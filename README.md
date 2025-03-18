@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me
+
+I am currently an academic dean with a community and technical college in the Twin Cities of Minnesota.
+
+
