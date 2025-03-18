@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 About Me
 
-I am currently an academic dean with a community and technical college in the Twin Cities of Minnesota.
+I am currently an academic administrator at a community and technical college returning to my professional roots in research.
 
 
