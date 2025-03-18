@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me
 
 I am currently an academic administrator at a community and technical college returning to my professional roots in research.
 
