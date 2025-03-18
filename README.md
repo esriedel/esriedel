@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am currently an academic administrator at a community and technical college returning to my professional roots in research.
+I am currently an academic administrator returning to my professional roots in research and evaluation.
 
 
 
