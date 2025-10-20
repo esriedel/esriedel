@@ -20,9 +20,9 @@ I am currently an academic administrator returning to my professional roots in r
 
 Research Career Highlights
 * Developed institutional research and assesesment systems for a large, online institution.
-* Past President for Association for the Assessment of Learning in Higher Education (AALHE).
 * Taught courses in statistics, quantitative analysis, secondary data, and political psychology.
+* Volunteer strategic marketing analyst at Compass Pro Bono - Twin Cities.
 * Published peer-reviewed articles and book chapters on online engagement, learning, political behavior, and assessment [https://www.researchgate.net/profile/Eric-Riedel-4]
 
-Recent Certificates: IBM Data Science Specialization, Coursera, ID 8R5T1S4Y5I, Leveraging Generative AI in Higher Education: Practical Applications, EDUCAUSE, Introduction to Generative AI, Google Cloud, Coursera, ID XZG4FY5MRZI8
+Recent Certificates: IBM Data Science Specialization, Coursera, ID 8R5T1S4Y5I, Leveraging Generative AI in Higher Education: Practical Applications, EDUCAUSE, Introduction to Generative AI, Google Cloud, Coursera, ID XZG4FY5MRZI8, Generative AI for Leaders, Vanderbilt University
 
